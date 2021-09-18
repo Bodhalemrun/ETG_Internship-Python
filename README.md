@@ -2,7 +2,7 @@
 In this project I have made about Inventory Management Sytem which has the good products of the shop.
 
 # About the Repository?
-I have learnt about json,SQL Database.
+I have learnt about json, NOSQL Database.
 
 # Features
 1) In this project there is adding the products to the cart.
